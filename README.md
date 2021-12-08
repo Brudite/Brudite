@@ -30,11 +30,11 @@ LinkedIn:  [@Riyaz Ul Haque](https://www.linkedin.com/in/riyazulhaque/)
 ### Feel Free to Contact/Connect with Us :coffee:
 (Use DARK THEME to find our SOCIAL MEDIA HANDLES ;)
 
-<a href="https://brudite.com" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED" width="22px" src="https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/5.png" /></a>
-<a href="https://www.linkedin.com/in/bruditepvtltd/" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | LinkedIn" width="22px" src="https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/1.png" />
-<a href="https://www.instagram.com/brudite_pvt_ltd/" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Instagram" width="22px" src="https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/3.png" />
-<a href="https://www.facebook.com/profile.php?id=100073773775863" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Facebook" width="22px" src="https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/2.png" />
-<a href="https://www.youtube.com/channel/UC_D-IJi3afuVjnBn38HyGnQ" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Youtube" width="22px" src="https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/4.png" />
+<a href="https://brudite.com" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED" width="22px" src="https://github.com/Brudite/Brudite/blob/main/images/media/5.png" /></a>
+<a href="https://www.linkedin.com/in/bruditepvtltd/" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | LinkedIn" width="22px" src="https://github.com/Brudite/Brudite/blob/main/images/media/1.png" />
+<a href="https://www.instagram.com/brudite_pvt_ltd/" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Instagram" width="22px" src="https://github.com/Brudite/Brudite/blob/main/images/media/3.png" />
+<a href="https://www.facebook.com/profile.php?id=100073773775863" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Facebook" width="22px" src="https://github.com/Brudite/Brudite/blob/main/images/media/2.png" />
+<a href="https://www.youtube.com/channel/UC_D-IJi3afuVjnBn38HyGnQ" target="_blank"><img align="left" alt="BRUDITE PRIVATE LIMITED | Youtube" width="22px" src="https://github.com/Brudite/Brudite/blob/main/images/media/4.png" />
 
 <br />
 <br />
