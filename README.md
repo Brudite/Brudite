@@ -10,7 +10,7 @@ At Brudite, we’re extremely passionate about what we do, which translates into
 
 
 
-![MEET OUR TEAM](https://github.com/Brudite/Brudite_Introduction/blob/main/images/media/meetourteam.gif)
+![MEET OUR TEAM](https://github.com/Brudite/Brudite/blob/main/images/media/meetourteam.gif)
 
 
 ### Contributors
